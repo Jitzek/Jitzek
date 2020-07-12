@@ -1,4 +1,4 @@
-[![Profile Picture](/images/ProfilePhoto.png)](https://jitzek.github.io/)
+[![Profile Picture](/images/pfp.png)](https://jitzek.github.io/)
 ### Info:
 * __Jitzek__
 * __Developer__ (Student) :hatching_chick:

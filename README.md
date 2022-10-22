@@ -2,4 +2,4 @@
 ### Info:
 * __Jitzek__
 * __Software Engineer__ (Student, 4th Year)
-* __jitz_k@hotmail.com__
+* __developer@jitzek.com__

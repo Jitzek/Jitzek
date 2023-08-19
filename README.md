@@ -2,6 +2,6 @@
 
 ### Info:
 * __Jitzek__
-* __Software Engineer__ (Student, 4th Year)
+* __Software Engineer__ (Graduated)
 * __developer@jitzek.com__
-* __https://jitzek.com__
+* __https://www.jitzek.com__
